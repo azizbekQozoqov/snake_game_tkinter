@@ -3,8 +3,6 @@ import random
 import time
 import tkinter.messagebox as mb
 
-import dotenv
-
 GAME_WIDTH = 600
 GAME_HEIGHT = 600
 SPEED = 150
